@@ -1,5 +1,5 @@
 {
-  "name": "react-antd-admin",
+  "name": "react-antd-redux-qiakr",
   "version": "0.1.0",
   "description": "React Ant.Design Admin UI",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "test": "mocha tests/.setup.js tests/**/*-test.js --compilers css:mocha-compiler.js",
     "start": "node server"
   },
-  "author": "fireyy",
+  "author": "LT",
   "license": "WTFPL",
   "dependencies": {
     "antd": "^0.12.4",
